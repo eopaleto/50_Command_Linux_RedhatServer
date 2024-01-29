@@ -195,5 +195,9 @@
     Berfungsi untuk menampilkan posisi berkas atau direktori
     ![image](https://github.com/eopaleto/50_Command_Linux_RedhatServer/assets/126212773/1383972a-60a0-468b-ad88-7e574894929a)
 
+51. `uname -a`
+    Berfungsi untuk menampilkan informasi sistem linux
+   ![image](https://github.com/eopaleto/50_Command_Linux_RedhatServer/assets/126212773/363c187d-16ec-49a2-93b3-f71596b3591f)
+
     
     
