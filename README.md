@@ -1,4 +1,4 @@
-![image](https://github.com/eopaleto/50_Command_Linux_RedhatServer/assets/126212773/1f25d6f9-4602-4801-9f4a-e4df541ec4d6)![image](https://github.com/eopaleto/50_Command_Linux_RedhatServer/assets/126212773/bc85e75e-e721-4cf3-95aa-ff9457c235a6)# 50_Command_Linux_Server
+# 50_Command_Linux_Server
 
 1. `cd`
    Berfungsi untuk "Berpindah ke direktori lain"
